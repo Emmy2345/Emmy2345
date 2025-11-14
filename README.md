@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [osTicket Implementation](https://github.com/Emmy2345/osTicket)
+- #### [osTicket Implementation](https://github.com/Emmy2345/osTicket)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 ### PodsForSquads
-  - [Real-Time Podcast Platform with Firebase Auth](https://github.com/Emmy2345/PodsForSquads)
+  - #### [Real-Time Podcast Platform with Firebase Auth](https://github.com/Emmy2345/PodsForSquads)
 
 <h2>📝Certifications</h2>
 
