@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Implemented a Help Desk Ticketing System (osTicket) using Azure Virtual Machine]
+- [osTicket Implementation](https://github.com/Emmy2345/osTicket)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>PodsForSquads<b>
+### PodsForSquads
   - [Real-Time Podcast Platform with Firebase Auth](https://github.com/Emmy2345/PodsForSquads)
 
 <h2>📝Certifications</h2>
@@ -16,6 +16,6 @@
 
 <h2> 🤳Connect with me:</h2>
 
-[<img align="left" alt="emmanuel-e-estrella | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="emmanuel-e-estrella | LinkedIn" width="22px" src="https://api.iconify.design/cib:linkedin.svg?color=%230077B5" />
 
 [linkedin]: https://www.linkedin.com/in/emmanuel-e-estrella/
