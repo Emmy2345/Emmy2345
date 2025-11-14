@@ -16,6 +16,6 @@
 
 <h2> 🤳Connect with me:</h2>
 
-<img align="left" alt="emmanuel-e-estrella | LinkedIn" width="22px" src="https://api.iconify.design/cib:linkedin.svg?color=%230077B5" />
-
-[linkedin]: https://www.linkedin.com/in/emmanuel-e-estrella/
+<a href="https://www.linkedin.com/in/emmanuel-e-estrella/" target="_blank">
+  <img align="left" alt="emmanuel-e-estrella | LinkedIn" width="22px" src="https://api.iconify.design/cib:linkedin.svg?color=%230077B5" />
+</a>
