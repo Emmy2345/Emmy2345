@@ -4,6 +4,11 @@
 
 - [Implemented a Help Desk Ticketing System (osTicket) using Azure Virtual Machine]
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>PodsForSquads<b>
+  - [Real-Time Podcast Platform with Firebase Auth]
+
 <h2>📝Certifications</h2>
 
 - CompTIA AI Essentials
