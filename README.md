@@ -7,7 +7,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PodsForSquads<b>
-  - [Real-Time Podcast Platform with Firebase Auth]
+  - [Real-Time Podcast Platform with Firebase Auth](https://github.com/Emmy2345/PodsForSquads)
 
 <h2>📝Certifications</h2>
 
