@@ -8,6 +8,8 @@
 
 ### PodsForSquads
   - #### [Real-Time Podcast Platform with Firebase Auth](https://github.com/Emmy2345/PodsForSquads)
+### Query Theory
+  - #### [Interactive Quiz Application](https://github.com/Emmy2345/Iron-Deers-Query-Theory)
 
 <h2>📝Certifications</h2>
 
