@@ -13,7 +13,7 @@
 
 <h2>📝Certifications</h2>
 
-- CompTIA AI Essentials
+- #### [CompTIA AI Essentials](https://pdfelementcloud.wondershare.com/share/review/9BF5v45QDrziISigd2BwWdWyIUEumla17LVmI4cROvSSivqgtNEd7OZPzkQw27wGRcFGZtWnFVT4gTgot4VVDiEhERgApe8jtPDDUgcNC2Q)
 - CompTIA Security+ Pending
 
 <h2> 🤳Connect with me:</h2>
