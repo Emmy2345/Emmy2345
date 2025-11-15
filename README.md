@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - #### [osTicket Implementation](https://github.com/Emmy2345/osTicket)
-- #### [SIEM Server Implementation](https://github.com/Emmy2345/Wizah_Implementation)
+- #### [SIEM Server Implementation](https://github.com/Emmy2345/Wazuh-Implementation)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
