@@ -16,8 +16,8 @@
 
 <h2>📝Certifications</h2>
 
-- #### [CompTIA AI Essentials](https://pdfelementcloud.wondershare.com/share/review/9BF5v45QDrziISigd2BwWdWyIUEumla17LVmI4cROvSSivqgtNEd7OZPzkQw27wGRcFGZtWnFVT4gTgot4VVDiEhERgApe8jtPDDUgcNC2Q)
-- CompTIA Security+ Pending
+- #### [CompTIA AI Essentials](https://certification.platform.comptia.org/verifycert/6-3C6-93H5V)
+- #### [CompTIA Security+](https://www.credly.com/badges/8a953a64-b452-4f29-a472-38b9b1139b6e/public_url)
 
 <h2> 🤳Connect with me:</h2>
 
