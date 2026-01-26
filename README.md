@@ -6,7 +6,7 @@
 
 <h2>🛠️ System Administration & Networking:</h2>
 
-- #### [Windows Server 2022: Secure Remote Access & Port Forwarding](./remote-access-project.md)
+- #### [Windows Server 2022: Secure Remote Access & Port Forwarding]((https://github.com/Emmy2345/Active-Directory))
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
