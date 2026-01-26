@@ -4,6 +4,10 @@
 
 - #### [SIEM Server Implementation](https://github.com/Emmy2345/Wazuh-Implementation)
 
+<h2>🛠️ System Administration & Networking:</h2>
+
+- #### [Windows Server 2022: Secure Remote Access & Port Forwarding](./remote-access-project.md)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 ### Query Theory
